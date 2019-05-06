@@ -3,7 +3,7 @@ set the clipboard to "{popclip text}"
 tell application "Google Chrome"
     activate
     set myTab to make new tab at end of tabs of window 1
-    set URL of myTab to "http://grammarly.dionmunk.com"
+    set URL of myTab to "https://grammarly.darionovoav.now.sh"
 end tell
 
 delay 2
